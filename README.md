@@ -12,7 +12,7 @@ The following command will build and run:
 * Tomcat with the openolat app
 
 ```bash
-docker compose up
+docker compose up --build
 ```
 
 Try it out:
